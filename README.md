@@ -1,4 +1,5 @@
 # 💀 Project Deathstar: CTF Walkthrough
+<img align="center" height="10000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3MwZ2pyMzllbWZydm13N3U2ZzkwdjVicXdtZXF1cWRjZ3lyYTZoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1WprDBazmsM8M/giphy.gif"  />
 
 
 ![Status](https://img.shields.io/badge/Status-Rooted-brightgreen?style=for-the-badge)
