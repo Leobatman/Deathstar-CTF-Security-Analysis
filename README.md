@@ -64,4 +64,10 @@ Para proteger este sistema, as seguintes ações são necessárias:
 3.  **Senhas:** Implementar políticas de complexidade de senha e rate-limiting no login.
 
 ---
+## 📥 Download do Laboratório
+A máquina virtual utilizada neste lab foi a **Deathstar**.
+Você pode baixá-la através do link abaixo:
+
+- **Download da VM (.ova):**(https://drive.google.com/file/d/1leVqc2Ja1s4YAAOH1r2tAXpjIyoVtsAW/view?usp=sharing)
+- **Tamanho:** ~1.8 GB
 *Lab realizado para fins educacionais e de treinamento em Ethical Hacking.*
